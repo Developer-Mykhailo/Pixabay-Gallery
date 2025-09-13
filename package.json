@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Pixabay-Gallery/",
+    "build": "vite build --base=/pixabay-gallery/",
     "preview": "vite preview"
   },
   "devDependencies": {
