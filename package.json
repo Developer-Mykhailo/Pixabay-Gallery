@@ -1,11 +1,11 @@
 {
-  "name": "goit-js-hw-11",
+  "name": "pixabay-gallery",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-js-hw-11/",
+    "build": "vite build --base=/Pixabay-Gallery/",
     "preview": "vite preview"
   },
   "devDependencies": {
@@ -14,7 +14,7 @@
     "postcss-sort-media-queries": "^5.2.0",
     "vite": "^7.1.5"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Mykhailo Pylypiv <developer.mykhailo@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.9.0",
