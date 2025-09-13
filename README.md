@@ -3,7 +3,7 @@
 A simple yet powerful web application that allows users to search for
 high-quality images using the [Pixabay API](https://pixabay.com/api/).
 
-![Image Finder Screenshot](assets/pixaby_gallery.jpg)
+[![Image Finder Screenshot](assets/pixaby_gallery.jpg)](https://developer-mykhailo.github.io/pixabay-gallery/)
 
 ## 🔍 Features
 
