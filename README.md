@@ -3,7 +3,7 @@
 A simple yet powerful web application that allows users to search for
 high-quality images using the [Pixabay API](https://pixabay.com/api/).
 
-![Image Finder Screenshot](pixaby_gallery.jpg)
+![Image Finder Screenshot](assets/pixaby_gallery.jpg)
 
 ## 🔍 Features
 
@@ -26,5 +26,5 @@ high-quality images using the [Pixabay API](https://pixabay.com/api/).
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/image-finder.git
+   git clone https://github.com/Developer-Mykhailo/pixabay-gallery
    ```
